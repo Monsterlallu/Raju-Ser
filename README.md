@@ -26,7 +26,7 @@
 
   <p align="center">
 
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/Raju-Ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MONSTER LALLU/Raju-Ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 
 </p>
 
