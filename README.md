@@ -62,7 +62,7 @@ Project created by <a href="https://github.com/Monsterlallu-AMRUSER">Raju-Ser</a
 
   
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/Raju-Ser-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Monsterlallu/Raju-Ser?v=1)
 
   
 
