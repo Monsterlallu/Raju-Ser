@@ -34,7 +34,7 @@
 
 <p align="center">
 
-Project created by <a href="https://github.com/Monsterlallu-AMRUSER">Raju-Ser</a> to make it public
+Project created by <a href="https://github.com/Monsterlallu/Raju-Ser">Raju-Ser</a> to make it public
 
     <br>
 
