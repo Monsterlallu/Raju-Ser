@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /AMRU/Dockerfile
+      worker: /RAJU/Dockerfile
 run:
    worker: npm start
