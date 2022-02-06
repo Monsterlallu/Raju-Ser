@@ -2,7 +2,7 @@
 
   <p align="center">
 
-<img src=https://i.imgur.com/Q8UeA57.png>
+<img src=https://fontmeme.com/permalink/220206/a620f55b7d614906aba20525a19b341d.png>
 
 </p>
 
