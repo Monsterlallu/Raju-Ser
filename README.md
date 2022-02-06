@@ -141,7 +141,7 @@ Click WA logo to Join Support Group 👇
 
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
-Amru_sir_v2 or we are not responsible for your account, 
+Raju-Ser or we are not responsible for your account, 
 
 This bot is intended for the purpose of having fun with some fun commands 
 
