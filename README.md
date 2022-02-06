@@ -112,21 +112,6 @@ $ node julie.js
 
     
 
-<a href="https://github.com/Monsterlallu/followers">
-
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
-
-<p align="center">
-
-<a href="https://github.com/Monsterlallu/followers"
-
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/Monsterlallu/Raju-Ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Monsterlallu/Raju-Ser?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/Monsterlallu/Raju-Ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Monsterlallu/Raju-Ser?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/Monsterlallu/Raju-Ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Monsterlallu/Raju-Ser?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
 
