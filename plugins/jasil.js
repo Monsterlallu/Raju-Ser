@@ -16,7 +16,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *Rᴀᴊᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtu.be/x47g62HcsWc😁*
      
- *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/its_me_dron?utm_medium=copy_link*
+ *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/monster_lallu_*
 
  *Rᴀᴊᴜ sᴇʀ Bᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*
 
