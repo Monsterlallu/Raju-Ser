@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ 🇷 🇦 🇯 🇺  🇸 🇪 🇷  🇧 🇴 🇹 *
 
-*Cʀᴇᴀᴛᴇʀ number : wa.me/917025631103?text=Hi%20𝘙𝘢𝘫𝘶%20bro.%20*
+*Cʀᴇᴀᴛᴇʀ number : wa.me/12019955965?text=Hi%20𝘙𝘢𝘫𝘶%20bro.%20*
 
 
  *Rᴀᴊᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtu.be/x47g62HcsWc😁*
