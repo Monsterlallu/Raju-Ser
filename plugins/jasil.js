@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 *Cʀᴇᴀᴛᴇʀ number : wa.me/12019955965?text=Hi%20𝘙𝘢𝘫𝘶%20bro.%20*
 
 
- *Rᴀᴊᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtu.be/x47g62HcsWc😁*
+ *Rᴀᴊᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtube.com/channel/UC1vRccmkHNiYuXLbzocZwuA😁*
      
  *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/monster_lallu_*
 
