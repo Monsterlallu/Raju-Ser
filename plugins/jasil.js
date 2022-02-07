@@ -7,7 +7,7 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/CtaexU3.jpeg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://www.linkpicture.com/q/20220207_005850.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ 🇷 🇦 🇯 🇺  🇸 🇪 🇷  🇧 🇴 🇹 *
 
