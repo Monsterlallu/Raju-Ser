@@ -1,19 +1,5 @@
 const asena = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
-const OWNER = "it sends details of owner"
-const GIT = "it sends links"
-const Config = require('../config');
-
-
-if (Config.WORKTYPE == 'private') {
-        asena.addCommand({pattern: 'owner', fromMe: true, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
-
-    var r_text = new Array ();
-    
-    r_text[1] = "*╔══■□💙ᴀᴍʀᴜ-sᴇʀ💙■□══╗*\n           \n*⚜═ᴀᴍʀᴜ-sᴇʀ═⚜*\n\n*𝕆𝕨𝕟𝕖𝕣 Aᴍʀᴜ-Aᴍʀᴜᴛʜᴇsʜ - https://api.whatsapp.com/send?phone=+917025994178&text=Please%20add%20Aʙᴜsᴇʀ%20bot%20ɢʀᴏᴜᴘ%20💙*\n*            *\n*╚══■□💙ᴀᴍʀᴜ-sᴇʀ💙■□══╝*\n\n*▷Creator: Aʙᴜ-Jᴀsɪʟ ✝︎*"
-
-    
-    await message.client.sendMessage(
+Message(
         message.jid,(r_text[1]), MessageType.text);
 
     }));
