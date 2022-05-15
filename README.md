@@ -62,7 +62,7 @@ Project created by <a href="https://github.com/Monsterlallu">MONSTER LALLU</a> t
 
   
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Monsterlallu/Raju-Ser?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Monsterlallu/Lallu-Bot)
 
   
 
